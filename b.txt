@@ -1,2 +1,8 @@
 Blablabla
 Testando atualização do clone
+
+Teste Branches feito
+
+Teste Stash feito
+
+Teste tags a fazer
