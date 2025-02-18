@@ -4,3 +4,5 @@ Para
 Teste
 de
 Log
+
+Testando utilização de branches
