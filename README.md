@@ -4,8 +4,8 @@ Criando **read.me** para o *repositório*
 
 ## Funcionalidades:
 
-Checkout, Tela de Produto, Catálogo, Home com banner
+_Checkout, **Tela de Produto**, Catálogo, Home **com banner**_
 
 ###### Melhorias do projeto:
 
-Melhoria 1, Melhoria 2, Melhoria 3
+__Melhoria 1__, Melhoria 2, Melhoria 3
