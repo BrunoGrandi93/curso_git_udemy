@@ -25,3 +25,7 @@ __Melhoria 1__, Melhoria 2, Melhoria 3
     3. CSS diferente para grupos de clientes
 2. Integração
 3. Sistema bônus
+
+### Imagem local
+
+![Logo do Python](img/python.png)
