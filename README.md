@@ -43,3 +43,11 @@ __Melhoria 1__, Melhoria 2, Melhoria 3
 **Principal Contribuidor**: https://github.com/BrunoGrandi93
 
 [![Logo PHP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUXbDN6MjKqhEQLKobn2Ffg4goxiTe6xptfw&s)](https://github.com/BrunoGrandi93)
+
+##### Código da função soma:
+
+```javascript
+funcion soma(a ,b) {
+    return a + b;
+}
+```
