@@ -29,3 +29,7 @@ __Melhoria 1__, Melhoria 2, Melhoria 3
 ### Imagem local
 
 ![Logo do Python](img/python.png)
+
+### Imagem externa
+
+![Logo do PHP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUXbDN6MjKqhEQLKobn2Ffg4goxiTe6xptfw&s)
