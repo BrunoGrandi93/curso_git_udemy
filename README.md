@@ -1,6 +1,6 @@
 # Repositório para aprendizado de Git e Github.
 
-Criando read.me para o repositório
+Criando **read.me** para o *repositório*
 
 ## Funcionalidades:
 
