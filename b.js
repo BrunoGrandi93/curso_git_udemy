@@ -1,4 +1,4 @@
 function addCart(p) {
-    cart= `{}
+    cart= {}
     return cart
 }
