@@ -40,4 +40,6 @@ __Melhoria 1__, Melhoria 2, Melhoria 3
 
 [https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal)
 
-Principal Contribuidor: https://github.com/BrunoGrandi93
+**Principal Contribuidor**: https://github.com/BrunoGrandi93
+
+[![Logo PHP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUXbDN6MjKqhEQLKobn2Ffg4goxiTe6xptfw&s)](https://github.com/BrunoGrandi93)
